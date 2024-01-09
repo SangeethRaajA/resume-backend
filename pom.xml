@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.resume</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>simple-resume</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>simple-resume</name>
 	<description>Application which helps the user to build their resume</description>
