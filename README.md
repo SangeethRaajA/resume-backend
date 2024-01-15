@@ -1,4 +1,4 @@
-# Resume-Builder-Backend.
+# Resume-Builder-Backend
 
 ## Hosted in
 
