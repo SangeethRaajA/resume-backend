@@ -2,7 +2,7 @@
 
 ## Hosted in
 
-* http://resume-backend.eu-north-1.elasticbeanstalk.com
+* [http://resume-backend.eu-north-1.elasticbeanstalk.com](https://simple-resume-backend.onrender.com)
 [ /api/v1/resume ]
 
 ## Postman Collection
